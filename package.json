@@ -1,0 +1,14 @@
+{
+  "name": "hbart",
+  "version": "0.0.1",
+  "description": "",
+  "main": "hbart.js",
+  "scripts": {
+      "test": "node hbart.js"
+  },
+  "author": "H1N1theI",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^9.3.0"
+  }
+}
